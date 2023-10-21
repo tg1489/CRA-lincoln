@@ -1,7 +1,9 @@
 {
+  "homepage": "https://cra-lincoln-3182e43d4866.herokuapp.com/",
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:3001",
   "dependencies": {
     "@apollo/client": "^3.8.6",
     "@testing-library/jest-dom": "^5.17.0",
